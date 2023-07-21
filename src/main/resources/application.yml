@@ -1,0 +1,10 @@
+cloud:
+  aws:
+    region:
+      static: us-east-1
+      auto: false
+    credentials:
+      access-key: AKIAZFEOWBODQQHQEOXY
+      secret-key: 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
+    end-point:
+      uri: https://sqs.us-east-1.amazonaws.com/629511949191/enrollment-queue
